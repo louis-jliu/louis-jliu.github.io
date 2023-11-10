@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student of the Physiology, Biophysics and Systems Biology Program in Weill Cornell Graduate School of Medical Sciences. Prior to my Ph.D. journey, I worked as a Senior Associate Scientist in a biotech company. I received my master's degree in Biomedical Engineering from Johns Hopkins University and my bachelor's degree in Bioengineering from University of Missouri.
+I am a Ph.D. student in the Physiology, Biophysics and Systems Biology Program at Weill Cornell Graduate School of Medical Sciences and conducting research at Memorial Sloan Kettering Cancer Center. Prior to Cornell, I worked as a Senior Associate Scientist in a biotech company. I received my master's degree in Biomedical Engineering from Johns Hopkins University and my bachelor's degree in Bioengineering from University of Missouri.
 
-My research interests include algorithmic method development and computational analysis of high-throughput experimental data to address questions in immunology and oncology.
+My research interests include algorithmic method development and computational analysis of high-throughput experimental data to address questions related to immunology and oncology.
 
 ## Research Interests
 
-- **Cancer Genomics:** tumor microenvironment, immunotherapy, TCR clonanity
+- **Cancer Biology:** T cell molecular profiling, immunotherapy, drug response prediction
 - **Machine Learning:** bayesian inference, transfer learning
 
 ## Updates

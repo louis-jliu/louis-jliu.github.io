@@ -2,32 +2,27 @@ main:
 
   - title: "Circulating tumor DNA (ctDNA) dynamics and survival outcomes in patients (pts) with advanced non-small cell lung cancer (aNSCLC) and high (>50%) programmed cell death-ligand 1 (PD-L1) expression, randomized to cemiplimab (cemi) vs chemotherapy (chemo)."
     authors: Natalie I Vokes, David R. Gandara, Ahmet Sezer, Saadettin Kilickap, Mahmut Gumus, Igor Bondarenko, Mustafa Özgüroğlu, Miranda Gogishvili, Haci M. Turk, Irfan Cicin, Dmitry Bentsion, Jinrui Liu, Nicholas Giangreco, Fang Wang, Siyu Li, Israel Lowy, Jean-Francois Pouliot, Giuseppe Gullo, Petra Rietschel, Vladimir Jankovic
-    venue: ASCO, 2023
-    conference:
+    venue: ASCO, 2023 - conference
     link: https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.16_suppl.9022
 
   - title: "Structured joint decomposition identifies reproducible cell states and their developmental progression across human neocortical development"
     authors: Shreyash Sonthalia, Jinrui Liu, Huan Chen, Carlo Colantuoni
-    venue: CSHL, 2022
-    conference:
+    venue: CSHL, 2022 - conference
     link: https://meetings.cshl.edu/abstracts.aspx?meet=BRAIN&year=22
 
   - title: "Structured Joint Decomposition (SJD) identifies conserved molecular dynamics across collections of biologically related multi-omics data matrices"
     authors: Huan Chen, Jinrui Liu, Shreyash Sonthalia, Genevieve Stein-O’Brien, Luo Xiao, Brian Caffo, Carlo Colantuoni
-    venue: bioRxiv, 2022
-    journal:
+    venue: bioRxiv, 2022 - journal
     link: https://www.biorxiv.org/content/10.1101/2022.11.07.515489v1.abstract
 
   - title: "Two-stage linked component analysis for joint decomposition of multiple biologically related data sets"
     authors: Huan Chen, Brian Caffo, Genevieve Stein-O’Brien, Jinrui Liu, Ben Langmead, Carlo Colantuoni, Luo Xiao
-    venue: Biostatistics, 2022
-    journal:
+    venue: Biostatistics, 2022 - journal
     link: https://academic.oup.com/biostatistics/article-abstract/23/4/1200/6561796
 
   - title: "A framework for highly multiplexed dextramer mapping and prediction of T cell receptor sequences to antigen specificity"
     authors: Wen Zhang, Peter G Hawkins, Jing He, Namita T Gupta, Jinrui Liu, Gabrielle Choonoo, Se W Jeong, Calvin R Chen, Ankur Dhanik, Myles Dillon, Raquel Deering, Lynn E Macdonald, Gavin Thurston, Gurinder S Atwal
-    venue: Science Advances, 2021
-    journal:
+    venue: Science Advances, 2021 - journal
     link: https://www.science.org/doi/full/10.1126/sciadv.abf5835
 
   #- title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
