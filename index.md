@@ -4,20 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student of the Physiology, Biophysics and Systems Biology Program in Weill Cornell Graduate School of Medical Sciences. Prior to my Ph.D. journey, I worked as a Senior Associate Scientist in a biotech company. I received my master's degree in Biomedical Engineering from Johns Hopkins University and my bachelor's degree in Bioengineering from University of Missouri.
+
+My research interests include algorithmic method development and computational analysis of high-throughput experimental data to address questions in immunology and oncology.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Cancer Genomics:** tumor microenvironment, 
+- **Machine Learning:** bayesian inference, transfer learning
 
-## News
+## Updates
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2023]** Started first Ph.D. rotation in the Tansey Lab at Computational Oncology Dept. of MSKCC.
+- **[May. 2023]** Abstract accpeted to ASCO 2023.
+- **[Nov. 2022]** Abstract accpeted to CSHL: Development and 3D Modeling of the Human Brain 2022.
+- **[Mar. 2022]** Method paper for join-decomposing biological datasets published on Biostatistics.
+- **[May. 2021]** Method paper TCR-antigen specificity prediction published on Science Advances.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %}-->
