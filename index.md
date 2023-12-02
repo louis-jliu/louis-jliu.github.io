@@ -4,24 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the Physiology, Biophysics and Systems Biology Program at Weill Cornell Graduate School of Medical Sciences and conducting research at Memorial Sloan Kettering Cancer Center. Prior to Cornell, I worked as a Senior Associate Scientist in a biotech company. I received my master's degree in Biomedical Engineering from Johns Hopkins University and my bachelor's degree in Bioengineering from University of Missouri.
+I am a Ph.D. student in the Physiology, Biophysics and Systems Biology Program at Weill Cornell Graduate School of Medical Sciences and conducting research at Memorial Sloan Kettering Cancer Center. My current research interests include machine learning algorithmic method development and computational analysis of high-throughput data, particularly with applications to immuno-oncology research.
 
-My research interests include algorithmic method development and computational analysis of high-throughput experimental data to address questions related to immunology and oncology.
-
-My friends call me Louis. :)
+Prior to Cornell, I worked as a Senior Associate Scientist in industry focusing on genomics data analysis for therapeutic discoveries and translational studies. I received my master's degree in Biomedical Engineering from Johns Hopkins University emphasizing on bioinformatics research under [Prof. Carlo Colantuoni](https://www.hopkinsmedicine.org/profiles/details/carlo-colantuoni) and [Prof. Brian Caffo](https://sites.google.com/view/bcaffo/home). I received dual bachelor's degrees in Bioengineering from University of Missouri and East China University of Science and Technology.
 
 ## Research Interests
 
-- **Cancer Biology:** T cell molecular profiling, immunotherapy, drug response prediction
+- **Biology:** T cell genomics, immunotherapy, drug response prediction
 - **Machine Learning:** bayesian inference, transfer learning
 
 ## Updates
 
-- **[Aug. 2023]** Started first Ph.D. rotation in the Tansey Lab at Computational Oncology Dept. of MSKCC.
-- **[May. 2023]** Abstract accpeted to ASCO 2023.
-- **[Nov. 2022]** Abstract accpeted to CSHL: Development and 3D Modeling of the Human Brain 2022.
-- **[Mar. 2022]** Method paper for join-decomposing biological datasets published on Biostatistics.
-- **[May. 2021]** Method paper TCR-antigen specificity prediction published on Science Advances.
+- **[Aug. 2023]** Started first Ph.D. rotation in [Tansey](https://wesleytansey.com/) Lab at MSK.
+- **[May. 2023]** Poster presented at ASCO 2023, abstract published on Journal of Clinical Oncology.
+- **[Nov. 2022]** Poster presented at CSHL: Development and 3D Modeling of the Human Brain 2022.
+- **[Mar. 2022]** Method paper for data decomposition published on Biostatistics.
+- **[May. 2021]** Method paper TCR-pMHC specificity prediction published on Science Advances.
 
 {% include_relative _includes/publications.md %}
 <!-- {% include_relative _includes/services.md %}-->
