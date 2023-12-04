@@ -10,14 +10,15 @@ Prior to Cornell, I worked as a Senior Associate Scientist in industry focusing 
 
 ## Research Interests
 
-- **Biology:** T cell genomics, immunotherapy, drug response prediction
+- **Biology:** molecular profiling, immunotherapy, drug response prediction
 - **Machine Learning:** bayesian inference, transfer learning
 
 ## Updates
 
-- **[Aug. 2023]** Started first Ph.D. rotation in [Tansey](https://wesleytansey.com/) Lab at MSK.
+- **[Aug. 2023]** Started second lab rotation in [Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie) Lab at MSKCC.
+- **[Aug. 2023]** Started first lab rotation in [Tansey](https://wesleytansey.com/) Lab at MSKCC.
 - **[May. 2023]** Poster presented at ASCO 2023, abstract published on Journal of Clinical Oncology.
-- **[Nov. 2022]** Poster presented at CSHL: Development and 3D Modeling of the Human Brain 2022.
+- **[Nov. 2022]** Poster presented at CSHL Development and 3D Modeling of the Human Brain 2022.
 - **[Mar. 2022]** Method paper for data decomposition published on Biostatistics.
 - **[May. 2021]** Method paper TCR-pMHC specificity prediction published on Science Advances.
 
