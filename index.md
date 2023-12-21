@@ -15,7 +15,7 @@ Prior to Cornell, I worked as a Senior Associate Scientist in industry focusing 
 
 ## Updates
 
-- **[Aug. 2023]** Started second lab rotation in [Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie) Lab at MSKCC.
+- **[Dec. 2023]** Started second lab rotation in [Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie) Lab at MSKCC.
 - **[Aug. 2023]** Started first lab rotation in [Tansey](https://wesleytansey.com/) Lab at MSKCC.
 - **[May. 2023]** Poster presented at ASCO 2023, abstract published on Journal of Clinical Oncology.
 - **[Nov. 2022]** Poster presented at CSHL Development and 3D Modeling of the Human Brain 2022.
