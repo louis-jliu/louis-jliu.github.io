@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, welcome! I'm Louis! My Chinese name is Jǐnruì.
+Hi! I'm Louis (Jǐnruì)!
 
 I am currently a first-year Ph.D. student in the Physiology, Biophysics and Systems Biology Program at Weill Cornell Graduate School of Medical Sciences, and conducting research at Memorial Sloan Kettering Cancer Center. My current research interests lie in machine learning algorithmic development and computational analysis of high-throughput data, particularly with applications to immuno-oncology research.
 
