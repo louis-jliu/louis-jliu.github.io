@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi, welcome to my page! 
+Hi, welcome! I'm Louis! My Chinese name is Jǐnruì.
 
-I am Louis (Jǐnruì), currently a first-year Ph.D. student in the Physiology, Biophysics and Systems Biology Program at Weill Cornell Graduate School of Medical Sciences, and conducting research at Memorial Sloan Kettering Cancer Center. My current research interests lie in machine learning algorithmic development and computational analysis of high-throughput data, particularly with applications to immuno-oncology research.
+I am currently a first-year Ph.D. student in the Physiology, Biophysics and Systems Biology Program at Weill Cornell Graduate School of Medical Sciences, and conducting research at Memorial Sloan Kettering Cancer Center. My current research interests lie in machine learning algorithmic development and computational analysis of high-throughput data, particularly with applications to immuno-oncology research.
 
 Prior to Cornell, I worked as a Senior Associate Scientist in industry focusing on genomics data analysis for therapeutic discoveries and translational studies. I received my master's degree in Biomedical Engineering from Johns Hopkins University emphasizing on bioinformatics research under [Prof. Carlo Colantuoni](https://www.hopkinsmedicine.org/profiles/details/carlo-colantuoni) and [Prof. Brian Caffo](https://sites.google.com/view/bcaffo/home). I received dual bachelor's degrees in Bioengineering from University of Missouri and East China University of Science and Technology.
 
