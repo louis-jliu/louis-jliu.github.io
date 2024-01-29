@@ -23,7 +23,7 @@ Prior to Cornell, I worked as a Senior Associate Scientist in industry focusing 
 - **[May. 2023]** Poster presented at ASCO 2023, abstract published on Journal of Clinical Oncology.
 - **[Nov. 2022]** Poster presented at CSHL Development and 3D Modeling of the Human Brain 2022.
 - **[Mar. 2022]** Method paper for data decomposition published on Biostatistics.
-- **[May. 2021]** Method paper TCR-pMHC specificity prediction published on Science Advances.
+- **[May. 2021]** Method paper for TCR-pMHC specificity prediction published on Science Advances.
 
 {% include_relative _includes/publications.md %}
 <!-- {% include_relative _includes/services.md %}-->
