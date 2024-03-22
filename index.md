@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm Louis (Jǐnruì)!
+Hi. I'm Louis (Jǐnruì).
 
 I am currently a first-year Ph.D. student in the Physiology, Biophysics and Systems Biology Program at Weill Cornell Graduate School of Medical Sciences, and conducting research at Memorial Sloan Kettering Cancer Center. My current research interests lie in machine learning algorithmic development and computational analysis of high-throughput data, particularly with applications to immuno-oncology research.
 
@@ -12,10 +12,10 @@ Prior to Cornell, I worked as a Senior Associate Scientist in industry focusing 
 
 ## Research Interests
 
-- **Computational Biology:** multiome analysis, drug response prediction
-- **Machine Learning:** bayesian inference, regression models
+- **Computational Biology:** molecular profiling, translational data science
+- **Machine Learning:** bayesian inference, regression models, knowledge graph
 
-## Updates
+<!---## Updates
 
 - **[Jan. 2024]** Poster accepted to AACR 2024.
 - **[Dec. 2023]** Started second lab rotation in [Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie) Lab at MSKCC.
@@ -23,7 +23,7 @@ Prior to Cornell, I worked as a Senior Associate Scientist in industry focusing 
 - **[May. 2023]** Poster presented at ASCO 2023, abstract published on Journal of Clinical Oncology.
 - **[Nov. 2022]** Poster presented at CSHL Development and 3D Modeling of the Human Brain 2022.
 - **[Mar. 2022]** Method paper for data decomposition published on Biostatistics.
-- **[May. 2021]** Method paper for TCR-pMHC specificity prediction published on Science Advances.
+- **[May. 2021]** Method paper for TCR-pMHC specificity prediction published on Science Advances.-->
 
 {% include_relative _includes/publications.md %}
 <!-- {% include_relative _includes/services.md %}-->
