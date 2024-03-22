@@ -1,5 +1,10 @@
 main:
 
+  - title: "A pan-cancer ex vivo drug screen database for next-generation pharmacogenomics and functional precision oncology."
+    authors: Anneliese Markus, Karl Pichotta, Jeffrey Quinn, Jessica White, Christopher Tosh, Jinrui liu, Erin Coyne, Wesley Tansey
+    venue: AACR, 2024 - conference
+    link: https://www.abstractsonline.com/pp8/#!/20272/presentation/9439
+
   - title: "in silico transcriptome dissection of neocortical excitatory neurogenesis via joint matrix decomposition and transfer learning."
     authors: Shreyash Sonthalia, Guangyan Li, Xoel Mato Blanco, Alex Casella, Jinrui Liu, Genevieve Stein-O'Brien, Brian Caffo, Shaun Adkins, Joshua Orvis, Ronna Hertzano, Anup Mahurkar, Jesse A Gillis, Jonathan Werner, Shaojie Ma, Nicola Micali, Nenad Sestan, Pasko Rakic, Gabriel Santpere Baro, Seth A Ament, Carlo Colantuoni
     venue: bioRxiv, 2024 - journal
