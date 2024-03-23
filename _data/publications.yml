@@ -1,37 +1,37 @@
 main:
 
   - title: "A pan-cancer ex vivo drug screen database for next-generation pharmacogenomics and functional precision oncology."
-    authors: Anneliese Markus, Karl Pichotta, Jeffrey Quinn, Jessica White, Christopher Tosh, Jinrui liu, Erin Coyne, Wesley Tansey
+    authors: A Markus, K Pichotta, J Quinn, J White, C Tosh, J liu, E Coyne, W Tansey
     venue: AACR, 2024 - conference
     link: https://www.abstractsonline.com/pp8/#!/20272/presentation/9439
 
   - title: "in silico transcriptome dissection of neocortical excitatory neurogenesis via joint matrix decomposition and transfer learning."
-    authors: Shreyash Sonthalia, Guangyan Li, Xoel Mato Blanco, Alex Casella, Jinrui Liu, Genevieve Stein-O'Brien, Brian Caffo, Shaun Adkins, Joshua Orvis, Ronna Hertzano, Anup Mahurkar, Jesse A Gillis, Jonathan Werner, Shaojie Ma, Nicola Micali, Nenad Sestan, Pasko Rakic, Gabriel Santpere Baro, Seth A Ament, Carlo Colantuoni
+    authors: S Sonthalia, G Li, XM Blanco, A Casella, J Liu, G Stein-O'Brien, B Caffo, S Adkins, J Orvis, R Hertzano, A Mahurkar, JA Gillis, J Werner, S Ma, N Micali, N Sestan, P Rakic, GS Baro, SA Ament, C Colantuoni
     venue: bioRxiv, 2024 - journal
     link: https://www.biorxiv.org/content/10.1101/2024.02.26.581612v1.abstract
 
   - title: "Circulating tumor DNA (ctDNA) dynamics and survival outcomes in patients (pts) with advanced non-small cell lung cancer (aNSCLC) and high (>50%) programmed cell death-ligand 1 (PD-L1) expression, randomized to cemiplimab (cemi) vs chemotherapy (chemo)."
-    authors: Natalie I Vokes, David R. Gandara, Ahmet Sezer, Saadettin Kilickap, Mahmut Gumus, Igor Bondarenko, Mustafa Özgüroğlu, Miranda Gogishvili, Haci M. Turk, Irfan Cicin, Dmitry Bentsion, Jinrui Liu, Nicholas Giangreco, Fang Wang, Siyu Li, Israel Lowy, Jean-Francois Pouliot, Giuseppe Gullo, Petra Rietschel, Vladimir Jankovic
+    authors: NI Vokes, DR Gandara, A Sezer, S Kilickap, M Gumus, I Bondarenko, M Özgüroğlu, M Gogishvili, HM Turk, I Cicin, D Bentsion, J Liu, N Giangreco, F Wang, S Li, I Lowy, J Pouliot, G Gullo, P Rietschel, V Jankovic
     venue: ASCO, 2023 - conference
     link: https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.16_suppl.9022
 
   - title: "Structured joint decomposition identifies reproducible cell states and their developmental progression across human neocortical development"
-    authors: Shreyash Sonthalia, Jinrui Liu, Huan Chen, Carlo Colantuoni
+    authors: S Sonthalia, J Liu, H Chen, C Colantuoni
     venue: CSHL, 2022 - conference
     link: https://meetings.cshl.edu/abstracts.aspx?meet=BRAIN&year=22
 
   - title: "Structured Joint Decomposition (SJD) identifies conserved molecular dynamics across collections of biologically related multi-omics data matrices"
-    authors: Huan Chen, Jinrui Liu, Shreyash Sonthalia, Genevieve Stein-O’Brien, Luo Xiao, Brian Caffo, Carlo Colantuoni
+    authors: H Chen, J Liu, S Sonthalia, G Stein-O’Brien, L Xiao, B Caffo, C Colantuoni
     venue: bioRxiv, 2022 - journal
     link: https://www.biorxiv.org/content/10.1101/2022.11.07.515489v1.abstract
 
   - title: "Two-stage linked component analysis for joint decomposition of multiple biologically related data sets"
-    authors: Huan Chen, Brian Caffo, Genevieve Stein-O’Brien, Jinrui Liu, Ben Langmead, Carlo Colantuoni, Luo Xiao
+    authors: H Chen, B Caffo, G Stein-O’Brien, J Liu, B Langmead, C Colantuoni, L Xiao
     venue: Biostatistics, 2022 - journal
     link: https://academic.oup.com/biostatistics/article-abstract/23/4/1200/6561796
 
   - title: "A framework for highly multiplexed dextramer mapping and prediction of T cell receptor sequences to antigen specificity"
-    authors: Wen Zhang, Peter G Hawkins, Jing He, Namita T Gupta, Jinrui Liu, Gabrielle Choonoo, Se W Jeong, Calvin R Chen, Ankur Dhanik, Myles Dillon, Raquel Deering, Lynn E Macdonald, Gavin Thurston, Gurinder S Atwal
+    authors: W Zhang, PG Hawkins, J He, NT Gupta, **J Liu**, G Choonoo, SW Jeong, CR Chen, A Dhanik, M Dillon, R Deering, LE Macdonald, G Thurston, GS Atwal
     venue: Science Advances, 2021 - journal
     link: https://www.science.org/doi/full/10.1126/sciadv.abf5835
 
