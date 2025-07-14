@@ -6,14 +6,14 @@ layout: homepage
 
 Hi. I'm Louis (Jǐnruì).
 
-I am currently a 2nd-year Ph.D. student of the [Physiology, Biophysics and Systems Biology Program](https://gradschool.weill.cornell.edu/programs/physiology-biophysics-systems-biology-1) at Weill Cornell Graduate School of Medical Sciences in New York City, jointly advised by [Dr. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie) and [Dr. Kushal Dey](https://www.mskcc.org/research/ski/labs/kushal-dey) from Sloan Kettering Institute. My current research interests lie in machine learning and statistical applications in genetics and genomics.
+I am currently a 3rd-year Ph.D. candidate of the [Physiology, Biophysics and Systems Biology Program](https://gradschool.weill.cornell.edu/programs/physiology-biophysics-systems-biology-1) at Weill Cornell Graduate School of Medical Sciences in New York City, jointly advised by [Dr. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie) and [Dr. Kushal Dey](https://www.mskcc.org/research/ski/labs/kushal-dey) from Sloan Kettering Institute of Memorial Sloan Kettering Cancer Center (MSKCC). My research interests lie in studying gene regulation through integrative analysis of functional genomics and genetics data using machine learning and statistical approaches.
 
 Prior to Cornell, I worked as a Senior Associate Scientist in computational immuno-oncology for a biotechnology company. I received my master's degree in Biomedical Engineering from Johns Hopkins University focusing on bioinformatics research under [Dr. Carlo Colantuoni](https://www.hopkinsmedicine.org/profiles/details/carlo-colantuoni) and [Dr. Brian Caffo](https://sites.google.com/view/bcaffo/home). I received dual bachelor's degrees in Bioengineering from University of Missouri and East China University of Science and Technology.
 
 ## Research Interests
 
-- **Computational Biology:** multiome data, genetics, genomics
-- **Modeling:** regression models, bayesian inference
+- **Computational Biology:** multiome data, genetics
+- **Modeling:** regression models, hypothesis tests
 
 <!---## Updates
 
