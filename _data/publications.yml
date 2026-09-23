@@ -15,6 +15,11 @@ main:
     venue: Nature Neuroscience, 2026 - journal
     link: https://www.nature.com/articles/s41593-026-02204-4
   
+  - title: "A single nucleus multiome QTL atlas of the aging human brain maps regulatory variation underlying Alzheimer's disease risk."
+    authors: J Liu, ...
+    venue: New England Computational Biology (NECB), 2026 - conference
+    link: 
+
   - title: "Identifying Rheumatoid Arthritis Gene-regulatory Enhancers with RNA+ATAC Multiome Data."
     authors: L Liu, T Park, S Mitra, M Smith, L. Donlin, K Dey, C Leslie
     venue: ASHG, 2024 - conference
