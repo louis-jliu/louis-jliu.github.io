@@ -12,7 +12,7 @@ Prior to Cornell, I worked as a Senior Associate Scientist of Bioinformatics at 
 
 ## Research Interests
 
-- **Computational Biology:** single-cell multiomics, QTL mapping and fine-mapping, statistical genetics
+- **Computational Biology:** single-cell multiomics, statistical genetics
 - **Modeling:** regression models, Bayesian inference, machine learning/deep learning
 
 <!---## Updates
