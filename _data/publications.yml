@@ -1,62 +1,62 @@
 main:
 
   - title: "The innate immunity protein IFITM3 modulates microglial states in Alzheimer's disease."
-    authors: T Jain, GR Frost, JY Hur, JC Chang, E Wong, C Liu, C Nikain, Z Kehs, AC Cross, T Li, LA Jonas, J Liu, X Niu, J Schlachetzki, L Gorodetski, WL Lim, G Yu, M Wang, X Zhou, W Wang, F Li, J Sanford, NV Khobrekar, A Evangelisti, S Sole Domenech, VZ Miloushev, C Funk, L Mazutis, C Lekaye, Y Zou, CK Glass, KR Keshari, C Cruchaga, B Zhang, K Dey, C Leslie, L Studer, YM Li
+    authors: T Jain, GR Frost, JY Hur, JC Chang, E Wong, C Liu, C Nikain, Z Kehs, AC Cross, T Li, LA Jonas, <strong>LJ Liu</strong>, X Niu, J Schlachetzki, L Gorodetski, WL Lim, G Yu, M Wang, X Zhou, W Wang, F Li, J Sanford, NV Khobrekar, A Evangelisti, S Sole Domenech, VZ Miloushev, C Funk, L Mazutis, C Lekaye, Y Zou, CK Glass, KR Keshari, C Cruchaga, B Zhang, K Dey, C Leslie, L Studer, YM Li
     venue: Nature Aging (accepted), 2026 - journal
     link: 
 
   - title: "Wnt inhibition activates Interferon Stimulated Gene expression by alleviating epigenetic repression of endogenous retroviruses."
-    authors: W Williams, J Harper Calderon, V Rodriguez Diblasi, J Liu, S Nuwayhid, H Cevasco, W Wang, R Soni, C Adler, D D’Ambrosio, N T. Gupta, C Daly
+    authors: W Williams, J Harper Calderon, V Rodriguez Diblasi, <strong>LJ Liu</strong>, S Nuwayhid, H Cevasco, W Wang, R Soni, C Adler, D D’Ambrosio, N T. Gupta, C Daly
     venue: Scientific Reports, 2026 - journal
     link: 
 
   - title: "A Curated Compendium of Transcriptomic Data for the Exploration of Neocortical Development."
-    authors: S Sonthalia, R Adkins, J Orvis, G Li, X Blanco, A Casella, J Liu, G Stein-O’Brien, B Caffo, R Hertzano, A Mahurkar, J Gillis, J Werner, S Ma, N Micali, N Sestan, P Rakic, G Santpere, S Ament, C Colantuoni
+    authors: S Sonthalia, R Adkins, J Orvis, G Li, X Blanco, A Casella, <strong>LJ Liu</strong>, G Stein-O’Brien, B Caffo, R Hertzano, A Mahurkar, J Gillis, J Werner, S Ma, N Micali, N Sestan, P Rakic, G Santpere, S Ament, C Colantuoni
     venue: Nature Neuroscience, 2026 - journal
     link: https://www.nature.com/articles/s41593-026-02204-4
   
   - title: "A single nucleus multiome QTL atlas of the aging human brain maps regulatory variation underlying Alzheimer's disease risk."
-    authors: J Liu, X Cao, A Liu, N Comandante-Lou, G Wang, D Bennett, PL De Jager, C Leslie, K Dey
+    authors: <strong>LJ Liu</strong>, X Cao, A Liu, N Comandante-Lou, G Wang, D Bennett, PL De Jager, C Leslie, K Dey
     venue: New England Computational Biology (NECB), 2026 - conference
     link: 
 
   - title: "Identifying Rheumatoid Arthritis Gene-regulatory Enhancers with RNA+ATAC Multiome Data."
-    authors: L Liu, T Park, S Mitra, M Smith, L. Donlin, K Dey, C Leslie
+    authors: <strong>LJ Liu</strong>, T Park, S Mitra, M Smith, L. Donlin, K Dey, C Leslie
     venue: ASHG, 2024 - conference
     link: 
 
   - title: "A pan-cancer ex vivo drug screen database for next-generation pharmacogenomics and functional precision oncology."
-    authors: A Markus, K Pichotta, J Quinn, J White, C Tosh, J Liu, E Coyne, W Tansey
+    authors: A Markus, K Pichotta, J Quinn, J White, C Tosh, <strong>LJ Liu</strong>, E Coyne, W Tansey
     venue: AACR, 2024 - conference
     link: https://www.abstractsonline.com/pp8/#!/20272/presentation/9439
 
   - title: "Circulating tumor DNA (ctDNA) dynamics and survival outcomes in patients (pts) with advanced non-small cell lung cancer (aNSCLC) and high (>50%) programmed cell death-ligand 1 (PD-L1) expression, randomized to cemiplimab (cemi) vs chemotherapy (chemo)."
-    authors: NI Vokes, DR Gandara, A Sezer, S Kilickap, M Gumus, I Bondarenko, M Özgüroğlu, M Gogishvili, HM Turk, I Cicin, D Bentsion, J Liu, N Giangreco, F Wang, S Li, I Lowy, J Pouliot, G Gullo, P Rietschel, V Jankovic
+    authors: NI Vokes, DR Gandara, A Sezer, S Kilickap, M Gumus, I Bondarenko, M Özgüroğlu, M Gogishvili, HM Turk, I Cicin, D Bentsion, <strong>LJ Liu</strong>, N Giangreco, F Wang, S Li, I Lowy, J Pouliot, G Gullo, P Rietschel, V Jankovic
     venue: Journal of Clinical Oncology, 2023 - journal
     link: https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.16_suppl.9022
 
   - title: "Structured joint decomposition identifies reproducible cell states and their developmental progression across human neocortical development"
-    authors: S Sonthalia, J Liu, H Chen, C Colantuoni
+    authors: S Sonthalia, <strong>LJ Liu</strong>, H Chen, C Colantuoni
     venue: CSHL, 2022 - conference
     link: https://meetings.cshl.edu/abstracts.aspx?meet=BRAIN&year=22
 
   - title: "Structured Joint Decomposition (SJD) identifies shared dynamics across collections of biologically related multi-omics data matrices."
-    authors: H Chen, J Liu, S Sonthalia, G Stein-O’Brien, L Xiao, B Caffo, C Colantuoni
+    authors: H Chen, <strong>LJ Liu</strong>, S Sonthalia, G Stein-O’Brien, L Xiao, B Caffo, C Colantuoni
     venue: Frontiers in Bioinformatics - Integrative Bioinformatics (under review), 2026 - journal
     link: https://www.biorxiv.org/content/10.1101/2022.11.07.515489v1.abstract
 
   - title: "Two-stage linked component analysis for joint decomposition of multiple biologically related data sets"
-    authors: H Chen, B Caffo, G Stein-O’Brien, J Liu, B Langmead, C Colantuoni, L Xiao
+    authors: H Chen, B Caffo, G Stein-O’Brien, <strong>LJ Liu</strong>, B Langmead, C Colantuoni, L Xiao
     venue: Biostatistics, 2021 - journal
     link: https://academic.oup.com/biostatistics/article-abstract/23/4/1200/6561796
 
   - title: "A framework for highly multiplexed dextramer mapping and prediction of T cell receptor sequences to antigen specificity"
-    authors: W Zhang, PG Hawkins, J He, NT Gupta, J Liu, G Choonoo, SW Jeong, CR Chen, A Dhanik, M Dillon, R Deering, LE Macdonald, G Thurston, GS Atwal
+    authors: W Zhang, PG Hawkins, J He, NT Gupta, <strong>LJ Liu</strong>, G Choonoo, SW Jeong, CR Chen, A Dhanik, M Dillon, R Deering, LE Macdonald, G Thurston, GS Atwal
     venue: Science Advances, 2021 - journal
     link: https://www.science.org/doi/full/10.1126/sciadv.abf5835
 
   - title: "Vibrational spectroscopy of sodalite: Theory and experiments."
-    authors: A Mofrad, C Peixoto, J Blumeyer, J Liu, H Hunt, K Hammond
+    authors: A Mofrad, C Peixoto, J Blumeyer, <strong>LJ Liu</strong>, H Hunt, K Hammond
     venue: The Journal of Physical Chemistry C, 2018 - journal
     link: https://pubs.acs.org/doi/full/10.1021/acs.jpcc.8b07633
 
